@@ -1,5 +1,3 @@
-# Let's create a full README.md content in a single file and save it.
-readme_content = """
 # bank-detector
 
 A lightweight TypeScript utility to detect Iranian banks based on card numbers.
