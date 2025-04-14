@@ -1,5 +1,3 @@
-# Let's create a full README.md content in a single file and save it.
-readme_content = """
 # bank-detector
 
 A lightweight TypeScript utility to detect Iranian banks based on card numbers.
@@ -24,7 +22,7 @@ if (bank) {
 } else {
   console.log("Bank not detected!");
 }
-License
+## License
 MIT
 Developed by Ahmad Mohammadi
  نحوه Build و استفاده لوکال
