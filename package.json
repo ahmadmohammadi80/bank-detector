@@ -1,0 +1,27 @@
+{
+  "name": "bank-detector",
+  "version": "1.0.0",
+  "description": "A simple utility to detect Iranian banks from card numbers.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "bank",
+    "iran",
+    "card",
+    "detector",
+    "typescript",
+    "iranian-banks"
+  ],
+  "author": "Ahmad Mohammadi <info@ahmadmohammdi.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmadmohammadi80/bank-detector.git"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
